@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "tex_0.png",
+	"frame": {"x":459,"y":1,"w":152,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":102},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_1.png",
+	"frame": {"x":1,"y":1,"w":253,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":0,"w":253,"h":102},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_2.png",
+	"frame": {"x":465,"y":259,"w":151,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":349,"y":0,"w":151,"h":102},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_3.png",
+	"frame": {"x":256,"y":1,"w":201,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":99,"w":201,"h":103},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_4.png",
+	"frame": {"x":156,"y":260,"w":153,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":99,"w":153,"h":103},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_5.png",
+	"frame": {"x":311,"y":260,"w":152,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":99,"w":152,"h":103},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_6.png",
+	"frame": {"x":359,"y":106,"w":152,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":149,"w":152,"h":151},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_7.png",
+	"frame": {"x":1,"y":208,"w":153,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":149,"w":153,"h":151},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_8.png",
+	"frame": {"x":1,"y":105,"w":203,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":199,"w":203,"h":101},
+	"sourceSize": {"w":500,"h":300}
+},
+{
+	"filename": "tex_9.png",
+	"frame": {"x":206,"y":106,"w":151,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":349,"y":149,"w":151,"h":152},
+	"sourceSize": {"w":500,"h":301}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_textures.png",
+	"format": "RGBA8888",
+	"size": {"w":617,"h":364},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e36f55fce57ccea727328dd2436744b3:d94a339c810a5a61e859d3e63fc9bc74:bc9d8e1e9a6df43f75aeff6df1f3915e$"
+}
+}

@@ -1,0 +1,24 @@
+root = true
+ 
+[*]
+ 
+# インデントの種類: space, tab
+indent_style = tab
+ 
+# インデントの大きさ
+indent_size = 4
+ 
+# 改行コードの種類:  lf, cr, crlf
+end_of_line = lf
+ 
+# 文字コード: utf-8, latin1, utf-8-bom and more
+charset = utf-8
+ 
+# 行末のスペース削除
+trim_trailing_whitespace = true
+ 
+# 最終行に空行を追加
+insert_final_newline = true
+ 
+[.html]
+indent_size = 2
